@@ -152,6 +152,6 @@ plt.rcParams['axes.facecolor'] = 'azure'
 
 
     
-![png](C:\Users\luizs\OneDrive\Documentos\Aprendendo Python\Grafico de arquivos CSV)
+<img src="Figura gerada.png">
     
 
