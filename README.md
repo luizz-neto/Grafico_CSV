@@ -152,6 +152,6 @@ plt.rcParams['axes.facecolor'] = 'azure'
 
 
     
-![png](Gr%C3%A1fico%20com%20duas%20vari%C3%A1veis_files/Gr%C3%A1fico%20com%20duas%20vari%C3%A1veis_2_0.png)
+![png](C:\Users\luizs\OneDrive\Documentos\Aprendendo Python\Grafico de arquivos CSV)
     
 
